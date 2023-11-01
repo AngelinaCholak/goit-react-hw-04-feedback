@@ -1,0 +1,34 @@
+
+.statistics {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+ 
+}
+
+.statistics h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+   
+}
+
+.statistics p {
+    font-size: 16px;
+    margin: 5px 0;
+  
+}
+
+.noFeedback {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+
+}
